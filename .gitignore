@@ -9,6 +9,21 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+library
+Library
+Temp
+temp
+obj
+Obj
+build
+Build
+Builds
+builds
+Logs
+logs
+memoryCaptures
+MemoryCaptures
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
